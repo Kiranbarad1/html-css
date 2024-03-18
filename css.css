@@ -86,6 +86,7 @@ input {
 }
 .mernpara {
   width: 97%;
+  /* margin-bottom: 30px; */
 
   /* border: 2px solid; */
 }
@@ -167,8 +168,15 @@ a:hover {
 }
 
 /* .sh {
+  margin-bottom: 20px;
+} */
+/* .sh label {
   display: flex;
-  flex-direction: row;
+  margin-left: 25%;
+}
+
+.sh input {
+  display: none;
 } */
 
 .class {
